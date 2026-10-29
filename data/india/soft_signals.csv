@@ -1,0 +1,18 @@
+company,signal_type,value,signal_date,source_url
+Reliance Capital,auditor_resignation,Price Waterhouse resigned citing fund diversion and intimidation,2019-06-11,https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5270929-3736-4dd8-98e9-51474e2c914e.pdf
+DHFL,auditor_resignation,Deloitte Haskins & Sells resigned citing accounting irregularities and insufficient audit evidence,2019-08-05,https://www.bseindia.com/corporates/ann.aspx?scrip=511072
+IL&FS,auditor_resignation,BSR & Associates resigned amidst SFIO investigation into IFIN accounts,2019-06-20,https://www.bseindia.com/corporates/ann.aspx?scrip=500458
+Coffee Day Enterprises,promoter_pledge_rise,Promoter pledge reached 75.7% of total promoter shareholding,2019-04-18,https://www.bseindia.com/corporates/shpSecAft.aspx?scripcd=539436&qtrid=101.00
+Future Retail,promoter_pledge_rise,Promoter pledge rose past 50.4% across promoter entities,2020-01-20,https://www.bseindia.com/corporates/shpSecAft.aspx?scripcd=540064&qtrid=104.00
+Reliance Communications,promoter_pledge_rise,Promoter share pledge encumbrance reached 45.1%,2017-07-21,https://www.bseindia.com/corporates/shpSecAft.aspx?scripcd=532712&qtrid=94.00
+IL&FS,rating_downgrade,ICRA downgraded Commercial Paper and NCDs to D (Default),2018-09-17,https://www.icra.in/Rating/RatingRationale/Report/72648
+DHFL,rating_downgrade,CRISIL and CARE downgraded Commercial Paper and NCDs to D (Default),2019-06-05,https://www.crisil.com/en/home/our-businesses/ratings/rating-action.html
+Jet Airways,rating_downgrade,ICRA downgraded long-term borrowing and credit facilities to D (Default),2019-01-02,https://www.icra.in/Rating/RatingRationale/Report/75734
+Reliance Capital,rating_downgrade,CARE downgraded long-term debt instruments to D (Default),2019-09-20,https://www.careratings.com/upload/CompanyFiles/PR/Reliance%20Capital%20Limited-09-20-2019.pdf
+Future Retail,rating_downgrade,CARE downgraded long-term bank facilities and NCDs to D (Default),2022-01-31,https://www.careratings.com/upload/CompanyFiles/PR/Future%20Retail%20Limited-01-31-2022.pdf
+DHFL,related_party_loans,Forensic disclosure flagged 19753 crore routed to 25 suspected related shell entities,2019-01-29,https://www.bseindia.com/corporates/ann.aspx?scrip=511072
+Reliance Capital,related_party_loans,Auditor notice under Section 143(12) reported substantial loans to related group entities,2019-06-11,https://www.mca.gov.in
+Coffee Day Enterprises,related_party_loans,Investigation revealed 3535 crore transferred to promoter entity MACEL,2019-08-30,https://www.bseindia.com/corporates/ann.aspx?scrip=539436
+DHFL,delayed_filing,Delayed mandatory submission of audited Q4 FY19 and annual financial results past SEBI deadline,2019-05-30,https://www.bseindia.com/corporates/ann.aspx?scrip=511072
+Jet Airways,delayed_filing,Deferred and delayed approval of Q1 FY19 unaudited financial results disclosure,2018-08-09,https://www.bseindia.com/corporates/ann.aspx?scrip=532617
+Future Retail,delayed_filing,Failed to submit annual audited financial results for FY21 within statutory time limit,2021-09-30,https://www.bseindia.com/corporates/ann.aspx?scrip=540064

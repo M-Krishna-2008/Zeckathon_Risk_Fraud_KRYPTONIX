@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Serialized model artifacts (regenerated automatically)
+models/*.joblib
+!models/.gitkeep
+
+# Raw and processed datasets (UCI dataset is auto-downloaded)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated reports and screenshots (rebuildable)
+reports/*
+!reports/.gitkeep
+!reports/missing_data.md
+
+# Log files and archives
+*.log
+nohup.out
+*.zip
+*.pdf
+
